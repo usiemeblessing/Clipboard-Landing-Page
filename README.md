@@ -1,2 +1,2 @@
 # Clipboard-Landing-Page
-challenge from frontendMaster by Shadey Coder
+challenge from frontendMaster
